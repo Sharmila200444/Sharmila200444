@@ -38,3 +38,12 @@ Web Developer | Final Year CSE Student @ Adhi College of Engineering and Technol
 </p>
 
 
+
+### Most used Language
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmila200444&layout=compact)
+
+
+### Contribution Graph
+
+[![Sharmila's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharmila200444&theme=dracula)](https://github.com/Sharmila200444/github-readme-activity-graph)
