@@ -6,14 +6,13 @@
 
 <img align='right' width='270' heigth='190' src='https://stephmason.com.au/assets/headergirl.png'>
 
-
 💡 About Me:
 
-  🚀 Passionate About: Problem-solving & Web Development
+     🚀 Passionate About: Problem-solving & Web Development
 
-   📖 Currently Exploring: Data Structures and Algorithms (DSA)
+     📖 Currently Exploring: Data Structures and Algorithms (DSA)
 
-   🎯 Looking Forward To: Collaborating on exciting projects
+     🎯 Looking Forward To: Collaborating on exciting projects
 📬 Connect with Me:
 
    🌱 Open to Opportunities: Web Development
