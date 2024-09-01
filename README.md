@@ -15,7 +15,7 @@
 
 🎯 Looking Forward To: Collaborating on exciting projects
 
-📬 Connect with Me:
+
 
 
    🌱 Open to Opportunities: Web Development
