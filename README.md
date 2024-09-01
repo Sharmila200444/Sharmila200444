@@ -8,9 +8,10 @@
 
 
 💡 About Me:
-
 🚀 Passionate About: Problem-solving & Web Development
+
 📖 Currently Exploring: Data Structures and Algorithms (DSA)
+
 🎯 Looking Forward To: Collaborating on exciting projects
 
   <a href='www.linkedin.com/in/sharmila-elumalai-62297127b'>
