@@ -4,7 +4,8 @@ Web Developer || Final Year CSE Student @ Adhi College of Engineering and Techno
 
 <img align='right' width='270' heigth='190' src='https://stephmason.com.au/assets/headergirl.png'>
 
-- 🎓 Final Year Computer Science Engineering student at Adhi College of Engineering and Technology.
+🌐 Web Developer | Final Year CSE Student
+🎓 Adhi College of Engineering and Technology
 - 👀 I’m interested in problem-solving and web development.
 - 🌱 Currently learning Data Structures and Algorithms (DSA).
 - 📫 How to reach me:
