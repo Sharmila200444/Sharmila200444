@@ -1,6 +1,6 @@
 ## 👋 Hello, I’m @Sharmila E
 
-🌐 Web Developer || Final Year CSE Student
+🌐 Web Developer || Final Year CSE Student.
 
 🎓 Adhi College of Engineering and Technology
 
