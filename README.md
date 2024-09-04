@@ -9,7 +9,7 @@
 💡 About Me:
 
 
-🚀 Passionate About: Problem-solving & Web Development
+🚀 Passionate About: Problem-solving & Web Development.
 
 📖 Currently Exploring: Data Structures and Algorithms (DSA)
 
