@@ -2,7 +2,7 @@
 
 🌐 Web Developer || Final Year CSE Student.
 
-🎓 Adhi College of Engineering and Technology
+🎓 Adhi College of Engineering and Technology.
 
 <img align='right' width='270' heigth='190' src='https://stephmason.com.au/assets/headergirl.png'>
 
