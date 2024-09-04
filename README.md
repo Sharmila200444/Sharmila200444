@@ -52,6 +52,7 @@
 </p>
 
 ### Platforms that help me enhance my coding skills
+<img width="70" height="70" src="https://img.icons8.com/?size=512&id=O4SEeX66BY8o&format=png"/> 
 
 
 ### Most used Language
