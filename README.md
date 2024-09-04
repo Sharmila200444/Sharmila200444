@@ -13,7 +13,7 @@
 
 📖 Currently Exploring: Data Structures and Algorithms (DSA)
 
-🎯 Looking Forward To: Collaborating on exciting projects
+🎯 Looking Forward To: Collaborating on exciting projects.
 
 
 
