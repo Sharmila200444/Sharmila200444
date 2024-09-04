@@ -1,4 +1,4 @@
-## 👋 Hello, I’m @Sharmila E
+## 👋 Hello, I’m Sharmila E
 
 🌐 Web Developer || Final Year CSE Student.
 
