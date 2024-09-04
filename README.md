@@ -11,7 +11,7 @@
 
 🚀 Passionate About: Problem-solving & Web Development.
 
-📖 Currently Exploring: Data Structures and Algorithms (DSA)
+📖 Currently Exploring: Data Structures and Algorithms (DSA).
 
 🎯 Looking Forward To: Collaborating on exciting projects.
 
