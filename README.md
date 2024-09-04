@@ -52,6 +52,7 @@
 </p>
 
 ### Platforms that help me enhance my coding skills
+
 <p align="center">
   <img width="70" height="70" src="https://img.icons8.com/?size=512&id=O4SEeX66BY8o&format=png"/> 
   <img width="70" height="70" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp"/> 
