@@ -76,5 +76,5 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sharmila200444&limit=5&theme=flat&combine_all_yearly_contributions=true&theme=dark)
+![](https://github-contributor-stats.vercel.app/api?username=Sharmila200444&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
