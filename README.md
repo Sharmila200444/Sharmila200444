@@ -26,8 +26,6 @@
   
 - 😄 Pronouns: Web developer
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sharmila200444&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 
 ### Coding Platforms
@@ -73,3 +71,8 @@
 ### Contribution Graph
 
 [![Sharmila's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharmila200444&theme=dracula)](https://github.com/Sharmila200444/github-readme-activity-graph)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sharmila200444&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
