@@ -4,7 +4,7 @@
 
 
 
-🌐 Web Developer || Final Year CSE Student.
+🌐 Java Full Stack Developer
 
 🎓 Adhi College of Engineering and Technology.
 
