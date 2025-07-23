@@ -42,7 +42,7 @@
   <img width="50" height="60" src="https://img.icons8.com/fluency/50/html-5.png" alt="html-5"/>
   <img width="50" height="60" src="https://img.icons8.com/color/50/css3.png" alt="css3"/>
   <img width="50" height="60" src="https://img.icons8.com/color/50/javascript--v1.png" alt="javascript--v1"/>
-  <img width="50" height="60" src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="mongodb"/>
+ 
   <img width="50" height="60" src="https://img.icons8.com/fluency/50/mysql-logo.png" alt="mysql-logo"/>
 </p>
 
